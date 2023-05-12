@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "funcs.h"
 /*
 void countdown(int n) {
     if (n > 0) {
